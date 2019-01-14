@@ -1,54 +1,54 @@
 
 
 
-							 Dragons 
+				 Dragons 
 
 
-Name: Joe_Smith Soccer Experience: YES Guardians(s): Jim and Jan Smith
+Name: Joe Smith Soccer Experience: YES Guardians(s): Jim and Jan Smith
 
-Name: Jill_Tanner Soccer Experience: YES Guardians(s): Clara Tanner
+Name: Jill Tanner Soccer Experience: YES Guardians(s): Clara Tanner
 
-Name: Bill_Bon Soccer Experience: YES Guardians(s): Sara and Jenny Bon
+Name: Bill Bon Soccer Experience: YES Guardians(s): Sara and Jenny Bon
 
-Name: Eva_Gordon Soccer Experience: NO Guardians(s): Wendy and Mike Gordon
+Name: Eva Gordon Soccer Experience: NO Guardians(s): Wendy and Mike Gordon
 
-Name: Matt_Gill Soccer Experience: NO Guardians(s): Charles and Sylvia Gill
+Name: Matt Gill Soccer Experience: NO Guardians(s): Charles and Sylvia Gill
 
-Name: Kimmy_Stein Soccer Experience: NO Guardians(s): Bill and Hillary Stein
-
-
-
-
-							 Sharks 
-
-
-Name: Karl_Saygan Soccer Experience: YES Guardians(s): Heather Bledsoe
-
-Name: Suzane_Greenberg Soccer Experience: YES Guardians(s): Henrietta Dumas
-
-Name: Diego_Soto Soccer Experience: YES Guardians(s): Robin and Sarika Soto
-
-Name: Sammy_Adams Soccer Experience: NO Guardians(s): Jeff Adams
-
-Name: Sal_Dali Soccer Experience: NO Guardians(s): Gala Dali
-
-Name: Joe_Kavalier Soccer Experience: NO Guardians(s): Sam and Elaine Kavalier
+Name: Kimmy Stein Soccer Experience: NO Guardians(s): Bill and Hillary Stein
 
 
 
 
-							 Raptors 
+				 Sharks 
 
 
-Name: Phillip_Helm Soccer Experience: YES Guardians(s): Thomas Helm and Eva Jones
+Name: Karl Saygan Soccer Experience: YES Guardians(s): Heather Bledsoe
 
-Name: Les_Clay Soccer Experience: YES Guardians(s): Wynonna Brown
+Name: Suzane Greenberg Soccer Experience: YES Guardians(s): Henrietta Dumas
 
-Name: Herschel_Krustofski Soccer Experience: YES Guardians(s): Hyman and Rachel Krustofski
+Name: Diego Soto Soccer Experience: YES Guardians(s): Robin and Sarika Soto
 
-Name: Ben_Finkelstein Soccer Experience: NO Guardians(s): Aaron and Jill Finkelstein
+Name: Sammy Adams Soccer Experience: NO Guardians(s): Jeff Adams
 
-Name: Chloe_Alaska Soccer Experience: NO Guardians(s): David and Jamie Alaska
+Name: Sal Dali Soccer Experience: NO Guardians(s): Gala Dali
 
-Name: Arnold_Willis Soccer Experience: NO Guardians(s): Claire Willis
+Name: Joe Kavalier Soccer Experience: NO Guardians(s): Sam and Elaine Kavalier
+
+
+
+
+				 Raptors 
+
+
+Name: Phillip Helm Soccer Experience: YES Guardians(s): Thomas Helm and Eva Jones
+
+Name: Les Clay Soccer Experience: YES Guardians(s): Wynonna Brown
+
+Name: Herschel Krustofski Soccer Experience: YES Guardians(s): Hyman and Rachel Krustofski
+
+Name: Ben Finkelstein Soccer Experience: NO Guardians(s): Aaron and Jill Finkelstein
+
+Name: Chloe Alaska Soccer Experience: NO Guardians(s): David and Jamie Alaska
+
+Name: Arnold Willis Soccer Experience: NO Guardians(s): Claire Willis
 
