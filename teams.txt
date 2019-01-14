@@ -1,0 +1,54 @@
+
+
+
+							 Dragons 
+
+
+Name: Joe_Smith Soccer Experience: YES Guardians(s): Jim and Jan Smith
+
+Name: Jill_Tanner Soccer Experience: YES Guardians(s): Clara Tanner
+
+Name: Bill_Bon Soccer Experience: YES Guardians(s): Sara and Jenny Bon
+
+Name: Eva_Gordon Soccer Experience: NO Guardians(s): Wendy and Mike Gordon
+
+Name: Matt_Gill Soccer Experience: NO Guardians(s): Charles and Sylvia Gill
+
+Name: Kimmy_Stein Soccer Experience: NO Guardians(s): Bill and Hillary Stein
+
+
+
+
+							 Sharks 
+
+
+Name: Karl_Saygan Soccer Experience: YES Guardians(s): Heather Bledsoe
+
+Name: Suzane_Greenberg Soccer Experience: YES Guardians(s): Henrietta Dumas
+
+Name: Diego_Soto Soccer Experience: YES Guardians(s): Robin and Sarika Soto
+
+Name: Sammy_Adams Soccer Experience: NO Guardians(s): Jeff Adams
+
+Name: Sal_Dali Soccer Experience: NO Guardians(s): Gala Dali
+
+Name: Joe_Kavalier Soccer Experience: NO Guardians(s): Sam and Elaine Kavalier
+
+
+
+
+							 Raptors 
+
+
+Name: Phillip_Helm Soccer Experience: YES Guardians(s): Thomas Helm and Eva Jones
+
+Name: Les_Clay Soccer Experience: YES Guardians(s): Wynonna Brown
+
+Name: Herschel_Krustofski Soccer Experience: YES Guardians(s): Hyman and Rachel Krustofski
+
+Name: Ben_Finkelstein Soccer Experience: NO Guardians(s): Aaron and Jill Finkelstein
+
+Name: Chloe_Alaska Soccer Experience: NO Guardians(s): David and Jamie Alaska
+
+Name: Arnold_Willis Soccer Experience: NO Guardians(s): Claire Willis
+
