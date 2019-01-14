@@ -35,7 +35,7 @@ def print_team(team):
 
 def write_file(team_name):
 	with open('teams.txt', 'a') as file:
-		file.write(f'\n\n\n\t\t\t\t\t\t\t {team_name} \n\n\n')
+		file.write(f'\n\n\n\t\t\t\t {team_name} \n\n\n')
 		file.write(print_team(teams.get(team_name)))
 
 def letter():
